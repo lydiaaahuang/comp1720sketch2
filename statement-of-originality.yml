@@ -1,0 +1,35 @@
+# for information & examples on how to fill this out correctly, see
+# https://cs.anu.edu.au/courses/comp1720/resources/faq/#statement-of-originality
+
+declaration: >-
+  I declare that everything I have submitted in this assignment is entirely my
+  own work, with the following exceptions:
+
+
+# add as many "url+licence+comment" entries as necessary
+# (or remove it altogether if you haven't used any external code)
+code:
+  - comment: interactivity; learn various potential interactive elements 
+    url: https://p5js.org/learn/interactivity.html
+    licence: fair use
+ 
+
+# add as many "url+licence+comment" entries as necessary
+# (or remove it altogether if you haven't used any external assets)
+assets:
+  - comment: image is inspired by "Alice in Wonderland" cartoon and live action Disney
+    url: https://awol.junkee.com/wp-content/uploads/2019/05/Mad-Hatters-Tea-Party-sydney-brunch.jpg 
+    licence: fair use
+
+  - comment: image is inspired by "Alice in Wonderland" cartoon and live action Disney
+    url: https://static.wikia.nocookie.net/aliceinwonderland/images/6/6b/Mad_Hatter_Tea_Party.jpg/revision/latest?cb=20100212004641 
+    licence: fair use
+
+  - comment: image is inspired by "Alice in Wonderland" cartoon and live action Disney
+    url: https://dyn1.heritagestatic.com/lf?set=path%5B2%2F3%2F0%2F7%2F1%2F23071341%5D%2Csizedata%5B850x600%5D&call=url%5Bfile%3Aproduct.chain%5D 
+    licence: fair use
+
+
+# sign *your* name and uid here
+name: Lydia Huang
+uid: u7298641
